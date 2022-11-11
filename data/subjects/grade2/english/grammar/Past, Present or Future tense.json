@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Present tense verbs tell you about something that is happening now.Example - Most present-tense verbs are regular. They have no ending, or they end in -s or -es.Example - Two verbs are irregular in the present tense, to be and to have. You must remember their Example - forms.Example - Past tense verbs tell you about something that has already happened.Example - Most past-tense verbs are regular. They end in -ed.Example - Some verbs are irregular in the past tense. You must remember their past-tense forms.Example - Future tense verbs tell you about something that is going to happen.Example - All future-tense verbs use the word will.Example - Present                 Past        FutureExample - walk, walks          walked    will walkExample - go, goes               went         will goExample - ",
+    "question": "Which tense does the sentence use?",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Past tense",
+      "description": "She cleaned the utensils.",
+      "image": null,
+      "extra": "Past tense, Present tense, Future tense"
+    },
+    {
+      "word": "Future tense",
+      "description": "Mom will come with you.",
+      "image": null,
+      "extra": "Past tense, Present tense, Future tense"
+    }
+  ]
+}

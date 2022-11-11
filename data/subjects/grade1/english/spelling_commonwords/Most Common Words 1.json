@@ -1,0 +1,68 @@
+{
+    "meta": {
+        "hint": "If you don't know the meaning of a word, look for context clues. They are nearby words that help you figure out the meaning of a new word. Example - Megan was glum when her best friend moved away. You can guess that 'glum' means 'sad'.  ",
+        "question": "Use nearby words or context to identify the  meaning of a word.    ",
+        "screen_type": null
+    },
+"content":[
+    {
+        "extra": "",
+        "description": "He is a good man.",
+        "word": "He",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "It was so cold that day.",
+        "word": "Was",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "She thanked him for his help.",
+        "word": "For",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "There is an apple on the table.",
+        "word": "On",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "You are very brave.",
+        "word": "Are",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "She is as tall as her brother.",
+        "word": "As",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "He went with his friends to the party.",
+        "word": "With",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "He found his keys.",
+        "word": "His",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "They live in that house.",
+        "word": "They",
+        "image":null
+    },
+    {
+        "extra": "",
+        "description": "I love playing cricket.",
+        "word": "I",
+        "image":null
+    }
+]}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "A pronoun is a word that takes the place of a noun or nouns. Use 'he' and 'him' for one boy or man. John is here. Example - He sees you. Example - You see him. <br> Use 'she' and 'her' for one girl or woman. Kate is here. Example - She sees you. Example - You see her. <br> Use 'it' for one thing. There is a rabbit here. Example - It sees you. Example - You see it. <br> Use 'we' and 'us' for more than one person, with I or me. John and I are here. Example - We see you. Example - You see us. <br> Use 'they' and 'them' for more than one person or thing. John and Kate are here. Example - They see you. Example - You see them. <br>",
+    "question": "",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "them",
+      "description": "Sonam and Ritika are in Pune. I will meet _____ today.",
+      "image": null,
+      "extra": "them, they"
+    },
+    {
+      "word": "We",
+      "description": "Mom and I went to the market. ___ bought some vegetables.",
+      "image": null,
+      "extra": "Us, We"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+      "hint": "Synonyms are words with the same or almost the same meaning. Example - Dad and Father.",
+    "question": "Select the synonym of the word in bold.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Grin  ",
+      "description": "She has a beautiful <b>smile</b>.  ",
+      "image": null,
+      "extra": "Grin,Sad, Glum  "
+    },
+    {
+      "word": "unhappy",
+      "description": "Rina looked <b> sad </b> that day.",
+      "image": null,
+      "extra": "Glad, Unhappy, Joyful"
+    },
+    {
+      "word": "large",
+      "description": "They have a <b> big </b> house.",
+      "image": null,
+      "extra": "Best, Tiny, Large"
+    },
+    {
+      "word": "Listen",
+      "description": "He pretended not to <b> hear </b> what she said.",
+      "image": null,
+      "extra": "Listen, noise, Whisper"
+    },
+    {
+      "word": "Tidy",
+      "description": "Divya has a very <b> neat </b> room.",
+      "image": null,
+      "extra": "Dirty, Tidy, Dusty"
+    },
+    {
+      "word": "Hard",
+      "description": "It is <b> difficult </b> to tackle this situation.",
+      "image": null,
+      "extra": "Hard, simple, easy"
+    },
+    {
+      "word": "exhausted",
+      "description": "I am <b> tired </b> today.",
+      "image": null,
+      "extra": "Energetic, Exhausted, Lively"
+    },
+    {
+      "word": "Defeat",
+      "description": "We must<b>  beat </b> our enemies in battle.",
+      "image": null,
+      "extra": "Defeat, victory, success"
+    },
+    {
+      "word": "Complain",
+      "description": "He is always <b> moaning </b> about his salary.",
+      "image": null,
+      "extra": "Agree, Complain, Accept"
+    },
+    {
+      "word": "Happy",
+      "description": "I am <b> glad </b> to see you",
+      "image": null,
+      "extra": "Annoyed, Upset, Happy"
+    }
+  ]
+}

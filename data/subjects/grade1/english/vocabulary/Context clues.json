@@ -1,0 +1,45 @@
+{
+  "meta": {
+      "hint": "If you don't know the meaning of a word, look for context clues. <br> They are nearby words that help you figure out the meaning of a new word. <br> Example - Megan was glum when her best friend moved away. <br> You can guess that 'glum' means 'sad'.",
+    "question": "Use nearby words or context to identify the  meaning of a word.    ",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Pictures",
+      "description": "Look at the <b>images</b> in this book. They show gardens in Japan. What do images mean?",
+      "image": null,
+      "extra": "Pictures, Words"
+    },
+    {
+      "word": "bad",
+      "description": "The biscuits were good, but  the cake was <b>dreadful</b>. What does dreadful mean?",
+      "image": null,
+      "extra": "bad, white"
+    },
+    {
+      "word": "hungry",
+      "description": "The puppy was <b>famished</b>.  She ate everything we gave her. What does famished mean?",
+      "image": null,
+      "extra": "hungry, little"
+    },
+    {
+      "word": "dry up",
+      "description": "Without water, these flowers will <b>shrivel</b>. What does shrivel mean?",
+      "image": null,
+      "extra": "get wet, dry up"
+    },
+    {
+      "word": "short",
+      "description": "Are you going on a <b>brief</b> trip or a long one? What does brief mean?",
+      "image": null,
+      "extra": "short, new"
+    },
+    {
+      "word": "far away",
+      "description": "Max moved to a <b>distant</b> town,  and now we never see him anymore. What does distant mean?",
+      "image": null,
+      "extra": "far away, near by"
+    }
+  ]
+}

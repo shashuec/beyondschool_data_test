@@ -1,0 +1,22 @@
+{
+  "meta": {
+      "hint": "The predicate of a sentence tells what the subject does or is. The Predicate must have the verb. <br> Example - My brother ate all the pizza, They went to the park yesterday.",
+    "question": "Identify the predicate in the sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "shines down",
+      "description": "The moon shines down.",
+      "image": null,
+      "extra": "Shines down, moon"
+    },
+    {
+      "word": "takes off.",
+      "description": "The spaceship takes off.",
+      "image": null,
+      "extra": "Spaceship, takes off"
+    }
+   
+  ]
+}

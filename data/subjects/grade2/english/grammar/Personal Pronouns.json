@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "A pronoun is a word that takes the place of a noun or nouns. <br> Singular pronouns take the place of singular nouns (one person, place or thing). <br> Example - Lea liked the book. She liked it. (She takes the place of Lea, and it takes the place of the book.) <br> These are singular pronouns: I, you, he, she, it, me, him, her Plural pronouns take the place of plural nouns (more than one person, place or thing). <br> Example - The kids liked the books. They liked them. They takes the place of the kids. Them takes the place of the books.) <br> These are plural pronouns: we, you, they, us, them",
+    "question": "Select the correct Personal pronoun.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "She",
+      "description": "She has a nice voice.",
+      "image": null,
+      "extra": "a, nice, She"
+    },
+    {
+      "word": "They",
+      "description": "They agreed to look into the causes of the accident.",
+      "image": null,
+      "extra": "They, look, the"
+    }
+  ]
+}

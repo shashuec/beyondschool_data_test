@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "The predicate of a sentence tells what the subject does or is. The Predicate must have the verb. <br> Example - My brother <b> ate all the pizza </b>, They <b> went to the park yesterday. </b>",
+    "question": "Identify the predicate in the sentence.",
+    "screen_type":null
+  },
+  "content": [
+    {
+      "word": "ate her salad slowly.",
+      "description": "She ate her salad slowly.",
+      "image":null,
+      "extra": "ate her salad slowly,  She"
+    },
+    {
+      "word": "plants cherry tree seeds.",
+      "description": "David plants cherry tree seeds.",
+      "image":null,
+      "extra": "David, plants cherry tree seeds."
+    }
+  ]
+}

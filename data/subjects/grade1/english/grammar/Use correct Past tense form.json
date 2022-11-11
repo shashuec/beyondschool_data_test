@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Use 'was' if the sentence is about one person, animal, place or thing. <br> Example - Richard was funny. Example - It was brittle. Example - She was here. <br> Use 'were' if the sentence is about more than one person, animal, place or thing. Also, use 'were' if the sentence is about you. <br> Example - Jake and Ron were late. Example - We were behind you. Example - You were so nice.",
+    "question": "Complete the sentence with the correct past tense form.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "was",
+      "description": "She _____ rude to me.",
+      "image": null,
+      "extra": "was, were"
+    },
+    {
+      "word": "were",
+      "description": "They _____ best friends.",
+      "image": null,
+      "extra": "were,was"
+    }
+  ]
+}

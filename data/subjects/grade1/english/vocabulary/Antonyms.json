@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "hint": "Antonyms are opposites. Example - big, little",
+    "question": "Select the antonym of the word in bold.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Wrong",
+        "description": "Select the antonym of <b> correct </b>. I think you are <b> correct </b>.",
+      "image": null,
+      "extra": "Wrong, Right, True"
+    },
+    {
+      "word": "Tough",
+        "description": "Select the antonym of <b> easy</b>. The rules of the game are quiet <b> easy</b>.",
+      "image": null,
+      "extra": "Tough,Simple,Correct"
+    },
+    {
+      "word": "Late",
+        "description": "Select the antonym of <b> early </b>. She woke up <b> early </b> today.",
+      "image": null,
+      "extra": "Late, free, come"
+    },
+    {
+      "word": "Hot",
+        "description": "Select the antonym of <b> cold </b>. It's too <b> cold </b> outside.",
+      "image": null,
+      "extra": "Sad, Hot, Dry"
+    },
+    {
+      "word": "Tell",
+        "description": "Select the antonym of <b> ask </b>. You can <b> ask </b> me anything you want.",
+      "image": null,
+      "extra": "Read, Write, Tell"
+    },
+    {
+      "word": "Sick ",
+        "description": "Select the antonym of <b> healthy </b>. She is looking <b> healthy </b> now.",
+      "image": null,
+      "extra": "Sick, Wealthy, Tired"
+    },
+    {
+      "word": "Thin",
+        "description": "Select the antonym of <b> thick </b>. Please, give me a <b> thick </b> board.",
+      "image": null,
+      "extra": "Thin, Fat, Old"
+    },
+    {
+      "word": "Full",
+        "description": "Select the antonym of <b> empty </b>. The bowl is <b> empty </b>.",
+      "image": null,
+      "extra": "Full, New, Empty"
+    },
+    {
+      "word": "Old",
+        "description": "Select the antonym of <b> young </b>. He is <b> young </b>.",
+      "image": null,
+      "extra": "YOUNg, Old, Smart"
+    },
+    {
+      "word": "Strong",
+        "description": "Select the antonym of <b> weak </b>. You are too <b> weak </b>.",
+      "image": null,
+      "extra": "Exhausted, Strong, Elder"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "meta":{
+    "hint": null,
+    "question": "Understand the word  with prefix and suffix to tell the its meaning.",
+    "screen_type": null
+  },
+  "content":[
+  {
+    "word": "Something good ",
+    "description": "What makes you thankful? ",
+    "image": null,
+    "extra": "Something good, Something bad"
+  },
+  {
+    "word": "To do something again",
+    "description": "What does retry mean?",
+    "image": null,
+    "extra": "To do something well,  To do something again"
+  },
+  {
+    "word": "Read it again",
+    "description": "When you reread a book,  what do you do?",
+    "image": null,
+    "extra": "Read it for the first time,  Read it again"
+  },
+  {
+    "word": "Take it again",
+    "description": "When you retake a test,  what do you do?",
+    "image": null,
+    "extra": "Miss it, Take it again"
+  },
+  {
+    "word": "Long",
+    "description": "What does uncut grass  look like?",
+    "image": null,
+    "extra": "Short, Long"
+  },
+  {
+    "word": null,
+    "description": null,
+    "image": null,
+    "extra": null
+  }
+]}

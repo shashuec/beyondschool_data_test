@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "hint": "A <b> suffix </b> can be added to the end of a word. It changes the meaning of the word. <br> The suffix -ly means in a certain way. Example - Sadly means in a sad way. <br> The suffix -ness means the state of being. Example - Sadness means the state of being sad.",
+        "question": "Select the correct meaning of the  word with suffix -ly and -ness.",
+        "screen_type": null
+    },
+    "content": [
+        {
+            "word": "in a bright way",
+            "description": "What does the word mean? <br>Brightly",
+            "image": null,
+            "extra": "in a bright way, in a state of being bright"
+        },
+        {
+            "word": "the state of being sick",
+            "description": "What does the word mean? <br> Sickness",
+            "image": null,
+            "extra": "the state of being sick,  in a sick way"
+        },
+        {
+            "word": "in a poor way",
+            "description": "What does the word mean? <br> Poorly",
+            "image": null,
+            "extra": "in a poor way,  the state of being poor"
+        },
+        {
+            "word": "the state of being soft",
+            "description": "What does the word mean? <br> Softness",
+            "image": null,
+            "extra": "the state of being soft,  in a soft way"
+        },
+        {
+            "word": "in a great way",
+            "description": "What does the word mean? <br> Greatly",
+            "image": null,
+            "extra": "the state of being great, in a great way"
+        }
+    ]
+}

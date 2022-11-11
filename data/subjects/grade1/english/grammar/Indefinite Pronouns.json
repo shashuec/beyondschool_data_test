@@ -1,0 +1,21 @@
+{
+  "meta": {
+      "hint": " Indefinite pronouns are used to talk about something that is not a specific person, thing, or amount. <br> Example - Let's do something. Everything is going to be okay.",
+    "question": "",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "anything",
+      "description": "Select the Indefinite pronoun. <br> Is anything left?",
+      "image": null,
+      "extra": "anything, left, is"
+    },
+    {
+      "word": "Someone",
+      "description": "Select the Indefinite pronoun. <br> Someone is knocking on the door.",
+      "image": null,
+      "extra": "door, someone, knocking"
+    }
+  ]
+}

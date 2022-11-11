@@ -1,0 +1,39 @@
+{
+  "meta": {
+      "hint": "Some words are alike. They go together in a group. Example - Red, Green, and blue go together in the colors group.",
+    "question": "Find the odd one out from the group of words.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Sound",
+      "description": "Which word is not like the others?",
+      "image": null,
+      "extra": "horn, drum, sound, piano"
+    },
+    {
+      "word": "pig",
+      "description": "Which word is not like the others?",
+      "image": null,
+      "extra": "bee, pig, fly, ant"
+    },
+    {
+      "word": "dress",
+      "description": "Which word is not like the others?",
+      "image": null,
+      "extra": "foot, nose, dress, ear"
+    },
+    {
+      "word": "floor",
+      "description": "Which word is not like the others?",
+      "image": null,
+      "extra": "floor, moon, star, sun"
+    },
+    {
+      "word": "lunch",
+      "description": "Which word is not like the others?",
+      "image": null,
+      "extra": "cake, lunch, biscuit, honey"
+    }
+  ]
+}

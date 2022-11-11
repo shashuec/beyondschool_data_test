@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "hint": "Synonyms are words with the same meaning or almost the same meaning. Example - Dad and Father.",
+    "question": "Identify the synonym of the word in the context.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "house",
+      "description": "Select the synonym of the word in bold. <br> Jenny comes to my <b>home</b> every day. Tomorrow, she will go to her aunt's house.",
+      "image": null,
+      "extra": "Tomorrow, house, aunt's"
+    },
+    {
+      "word": "happy",
+      "description": "Select the synonym of the word in bold.<br> Ben is <b>glad</b> to see his dad. His dad is happy, too.",
+      "image": null,
+      "extra": "happy, dad, see"
+    },
+    {
+      "word": "woman",
+      "description": "Select the synonym of the word in bold.<br>The <b>lady</b> smiled at Gary. She looked a friendly woman.",
+      "image": null,
+      "extra": "friendly, Gary, woman"
+    },
+    {
+      "word": "pretty",
+      "description": "Select the synonym of the word in bold.<br>Rosy wore a <b>beautiful</b> dress. She was looking pretty.",
+      "image": null,
+      "extra": "She, pretty, wore"
+    },
+    {
+      "word": "large",
+      "description": "Select the synonym of the word in bold.<br>This is a very <b>big</b> tree. Have you ever seen such a large tree before?",
+      "image": null,
+      "extra": "large, tree, seen"
+    }
+  ]
+}

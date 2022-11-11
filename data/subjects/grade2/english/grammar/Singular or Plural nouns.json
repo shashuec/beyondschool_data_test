@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Some plurals are irregular. They don't follow rules, so you must remember each one. child → children mouse → mice woman → women",
+    "question": "Is the noun in bold singular or plural?",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Plural",
+      "description": "They bought three new <b> fish </b>.",
+      "image": null,
+      "extra": "Singular, Plural"
+    },
+    {
+      "word": "Singular ",
+      "description": "That <b> woman </b> was very nice to me.",
+      "image": null,
+      "extra": "Singular, Plural"
+    }
+  ]
+}

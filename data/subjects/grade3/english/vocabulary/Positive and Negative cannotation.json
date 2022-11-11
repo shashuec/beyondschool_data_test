@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "hint": "<b> Connotation </b> is the feeling or idea that goes along with a word or phrase. Some words are close in meaning but have different connotations. <br> For Example -, think about the words eager and impatient. They both mean wanting something to happen, but they have different connotations. <br> Eager has a positive connotation. It is a nice word. An eager person is happy and excited. <br> Impatient has a negative connotation. It is not a nice word. An impatient person is often pushy and demanding.",
+        "question": "Select the phrase according to the asked cannotation.",
+        "screen_type": null
+    },
+    "content": [
+        {
+            "word": "Scowl at someone",
+            "description": "Which phrase has a more negative cannotation?",
+            "image": null,
+            "extra": "Scowl at someone, Frown at someone"
+        },
+        {
+            "word": "something special",
+            "description": "Which phrase has a more positive cannotation?",
+            "image": null,
+            "extra": "something strange, something special"
+        },
+        {
+            "word": "argue about something",
+            "description": "Which phrase has a more negative cannotation?",
+            "image": null,
+            "extra": "argue about something, disagree about something"
+        },
+        {
+            "word": "a reason",
+            "description": "Which phrase has a more positive cannotation?",
+            "image": null,
+            "extra": "a reason, an excuse"
+        },
+        {
+            "word": "slam the door",
+            "description": "Which phrase has a more negative cannotation?",
+            "image": null,
+            "extra": "slam the door, shut the door"
+        }
+    ]
+}

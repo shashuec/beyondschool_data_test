@@ -1,0 +1,39 @@
+{
+  "meta": {
+      "hint": "The suffix -ful means full of. <br> The suffix -less means without.",
+    "question": "Determine the meaning of the word with the suffix.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "without uses",
+      "description": "What does the word mean?<br>Useless",
+      "image": null,
+      "extra": "full of uses, without uses"
+    },
+    {
+      "word": "without point",
+      "description": "What does the word mean?<br>Pointless",
+      "image": null,
+      "extra": "without point, full of points"
+    },
+    {
+      "word": "full of thoughts",
+      "description": "What does the word mean?<br>Thoughtful",
+      "image": null,
+      "extra": "full of thoughts, able to think"
+    },
+    {
+      "word": "without color",
+      "description": "What does the word mean?<br>Colorless",
+      "image": null,
+      "extra": "without color, result of coloring"
+    },
+    {
+      "word": "without a name",
+      "description": "What does the word mean?<br>Nameless",
+      "image": null,
+      "extra": "the state of having a name, without a name"
+    }
+  ]
+}

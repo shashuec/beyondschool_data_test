@@ -1,0 +1,38 @@
+{
+  "meta":{
+      "hint": "Some words are alike. They go together in a group. Example - Red, Green, and blue go together in the colors group.",
+    "question": "Find the odd one out  from the group of words. ",
+    "screen_type": null
+  },
+  "content":[
+  {
+    "word": "Girl ",
+    "image": null,
+    "description": "Which word is not like the others? ",
+    "extra": "Duck, Hen,  Pigeon, Girl"
+  },
+  {
+    "word": "door",
+    "image": null,
+    "description": "Which word is not like the others? ",
+    "extra": "Door, clown, teacher, doctor"
+  },
+  {
+    "word": "pig",
+    "image": null,
+    "description": "Which word is not like the others? ",
+    "extra": "bee, pig, fly, ant"
+  },
+  {
+    "word": "dirt",
+    "image": null,
+    "description": "Which word is not like the others? ",
+    "extra": "ice cream, cake, dirt, pizza"
+  },
+  {
+    "word": "pen",
+    "image": null,
+    "description": "Which word is not like the others? ",
+    "extra": "red, pen, blue, green"
+  }
+]}

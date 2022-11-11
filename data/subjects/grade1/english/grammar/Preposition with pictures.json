@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Some words tell you where something is or where something happens. <br> Example - The cat is under the bed. She jumps on the bed. <br> A few Example -s are above, behind, beside, between, in, in front of, inside, next to, on, outside, and under.",
+    "question": "Select the preposition to complete the sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "on",
+      "description": "The basket is _____ on the mat. ",
+      "image": "https://in.ixl.com/~media/2/7jy_udwn_XoCPsPmULHVtau9jq3d-GfvbXY7GlQbeW8hcmkcvBtJU7Dy0zbwgKIT90InvGXPfvv6C_medc_ICY5ps4wQ1LhLQMab8WX3iOtC4rrU0xqxHwrG6m-0Ztcu2WHdVF7Y1Mor67JR5BaqHw.svg",
+      "extra": "on, in front of"
+    },
+    {
+      "word": "next to",
+      "description": "The toys are _____ the box",
+      "image": "https://in.ixl.com/~media/2/lw1BmWQ8B4jLDPyGA-cCcqCMeiOGO7wIrX8yYMrJyGjSl1ffXyLf_PejnCk5qad3UkQ1rk7HaeBeRMSO2WWJba8IRbwDgiQGytIxcA2jDR9tdYUkGLZk7jsIVpkXWZf5ttQFrfxVmAfrMO6Lr2UHaA.svg",
+      "extra": "above, next to"
+    }
+  ]
+}

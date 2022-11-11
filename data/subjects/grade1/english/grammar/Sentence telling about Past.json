@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "hint": "Some verbs tell you about something that has already happened. These verbs tell you about the past. They usually end in -ed. <br> Example - We walked to the shops yesterday. Example - The show started last week. <br> Some verbs tell you about something that is happening now. These verbs tell you about the present. They usually have no end, or they end in -s. <br> We walk to school today. Example - The show starts now. <br> Some verbs tell you about something that is going to happen. These verbs tell you about the future. They use the word will. <br> We will walk to the park next week. Example - The party will start soon.",
+    "question": "",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "She smiled at us.",
+      "description": "Which sentence tells you about the past?",
+      "image": null,
+      "extra": "She smiled at us,She cleans her room every day."
+    },
+    {
+      "word": "They called the Police.",
+      "description": "Which sentence tells you about the past?",
+      "image": null,
+      "extra": "They called the Police,We will watch the movie."
+    }
+    
+  ]
+}

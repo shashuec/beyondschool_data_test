@@ -1,0 +1,14 @@
+{
+  "meta":{
+      "hint": "Some words are alike but have differences in meaning. Those differences are called Shades of meaning. <br> Example - <b> Walking </b> and <b> Running </b>. <br> They both are ways to move, but running is faster than walking.",
+    "question": "Identifying the difference  between related words.   ",
+    "screen_type": null
+  },
+  "content":[
+  {
+    "word": "Loving something",
+    "description": "Which is stronger?",
+    "image": null,
+    "extra": "Loving something, Liking something"
+  }
+]}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "hint": "A <b> prefix </b> can be added to the beginning of a base word. Some common prefixes are mis-, pre- and re-. <br> A <b> suffix </b> can be added to the end of a base word. Some common suffixes are -able, -ful, -less, -ly, -ment and -ness. <br> Both prefixes and suffixes change the meaning of the base word.",
+        "question": "Select the correct meaning of the  word with Prefix  and suffix.",
+        "screen_type": null
+    },
+    "content": [
+        {
+            "word": "In a great way",
+            "description": "What does the word mean? <br> Greatly",
+            "image": null,
+            "extra": "in a great way,  without greatness"
+        },
+        {
+            "word": "Count incorrectly",
+            "description": "What does the word mean? <br> Miscount",
+            "image": null,
+            "extra": "count incorrectly, able to be counted"
+        },
+        {
+            "word": "The state of being sure",
+            "description": "What does the word mean? <br> Sureness",
+            "image": null,
+            "extra": "the state of being sure, without being sure"
+        },
+        {
+            "word": "Direct incorrectly",
+            "description": "What does the word mean? <br> Misdirect",
+            "image": null,
+            "extra": "direct again,  direct incorrectly"
+        },
+        {
+            "word": "Use again",
+            "description": "What does the word mean? <br> Reuse",
+            "image": null,
+            "extra": "use again, able to be used"
+        }
+    ]
+}

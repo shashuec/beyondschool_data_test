@@ -1,0 +1,102 @@
+{
+  "english": [
+    {
+      "subject": "Vocabulary",
+
+      "chapters": [
+        {
+          "id": "vocab1",
+          "chapter_name": "Antonyms",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab2",
+          "chapter_name": "Synonyms",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab3",
+          "chapter_name": "Detemine the meaning of word with -able or -ment",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab4",
+          "chapter_name": "Determine the meaning of the word with -ly or -ness",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab5",
+          "chapter_name": "Determine the meaning of the word with prefixes and suffixes",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab6",
+          "chapter_name": "Difference between related words",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+      
+        {
+          "id": "vocab7",
+          "chapter_name": "Greek and latin roots as clues to the meaning of the word",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab8",
+          "chapter_name": "Homophones with pictures",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab9",
+          "chapter_name": "Identify base word, prefixes and suffixes",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab10",
+          "chapter_name": "Identify homophones",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab11",
+          "chapter_name": "Identify sentence with definition",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab12",
+          "chapter_name": "Odd one out from the group",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab13",
+          "chapter_name": "Positive and Negative cannotation",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      ]
+    }
+  ]
+}

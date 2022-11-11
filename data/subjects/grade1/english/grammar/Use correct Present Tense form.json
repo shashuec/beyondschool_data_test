@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Use 'is' if the sentence is about one person, animal, place, or, thing. <br> Example - Richard is funny. Example - It is brittle. <br> Use 'are' if the sentence is about more than one person, animal, place or thing. Also, use 'are' if the sentence is about you. <br> Example - Jake and Ron are late. Example - We are behind you. Example - You are so pretty. <br> Use 'am' if the sentence is about I. Example - I am not going there.",
+    "question": "Complete the sentence with the correct present tense form.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "are",
+      "description": "Your books _____ scattered on the table.",
+      "image": null,
+      "extra": "are, is"
+    },
+    {
+      "word": "is",
+      "description": "My friend _____ coming home today.",
+      "image": null,
+      "extra": "is, am"
+    }
+  ]
+}

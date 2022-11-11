@@ -1,0 +1,39 @@
+{
+  "meta": {
+      "hint": "Base words are words that can be combined with prefixes and suffixes. They also can be used on their own. <br> Example - Unhelpful -> Base word is help, the prefix is -un, and the suffix is -ful.",
+    "question": "Identify the base word from the following.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "read",
+      "description": "What is the base word?<br>Readable",
+      "image": null,
+      "extra": "able, read"
+    },
+    {
+      "word": "tells",
+      "description": "What is the base word?<br>Retells",
+      "image": null,
+      "extra": "re, tells"
+    },
+    {
+      "word": "sleep",
+      "description": "What is the base word?<br>Sleepless",
+      "image": null,
+      "extra": "sleep, less"
+    },
+    {
+      "word": "prints",
+      "description": "What is the base word?<br>Misprints",
+      "image": null,
+      "extra": "prints, mis"
+    },
+    {
+      "word": "kind",
+      "description": "What is the base word?<br>Unkindness",
+      "image": null,
+      "extra": "un, ness, kind"
+    }
+  ]
+}

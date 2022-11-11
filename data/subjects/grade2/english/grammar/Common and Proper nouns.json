@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "A noun is a word that names a person, place, or thing. <br> A common noun names a general type of person, place, or thing. A common noun does not begin with a capital letter, except when it is the first word in a sentence. <br> A proper noun names a specific person, place, or thing. A proper noun always begins with a capital letter. <br> Common Nouns Proper Nouns Boy Jacob Day Tuesday Street Elm Street City Mumbai",
+    "question": "Identify whether the noun in bold  is a common or proper noun.",
+    "screen_type": null
+  },
+  "content": [
+    {
+        "word": "Common noun",
+      "description": "My <b>Grandparents </b>stay in Prayagraj. ",
+      "image": null,
+      "extra": "Common noun, Proper noun"
+    },
+    {
+        "word": "Proper noun",
+        "description": "We were mesmerized seeing the beauty of <b>Taj Mahal</b>.",
+      "image": null,
+      "extra": "Common noun, Proper noun"
+    }
+  ]
+}

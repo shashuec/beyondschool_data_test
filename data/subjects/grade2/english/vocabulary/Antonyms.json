@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "hint": "Antonyms are words with opposite meanings. Example - big, little",
+    "question": "Identify the antonym of the word in the context.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "light",
+        "description": "Select the Antonym of dark.<br>The sky was <b>dark</b>.",
+      "image": null,
+      "extra": "again, sky, light"
+    },
+    {
+      "word": "hello",
+        "description": "Select the Antonym of goodbye.<br> Did George say <b>goodbye</b> to you?" ,
+      "image": null,
+      "extra": "George, school, hello"
+    },
+    {
+      "word": "same",
+        "description": "Select the Antonym of different. <br>He was wearing two <b>different</b> color socks.",
+      "image": null,
+      "extra": "same, socks, wearing"
+    },
+    {
+      "word": "enemies",
+        "description": "Select the Antonym of friends. <br>  You should try to make <b>friends</b>",
+      "image": null,
+      "extra": "enemies, make, not"
+    },
+    {
+      "word": "early",
+        "description": "Select the Antonym of late.<br> I thought we would be <b>late</b>.",
+      "image": null,
+      "extra": "thought, we, early"
+    }
+  ]
+}

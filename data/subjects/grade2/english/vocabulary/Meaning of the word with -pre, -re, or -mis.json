@@ -1,0 +1,39 @@
+{
+  "meta": {
+      "hint": "The prefix -pre means before. <br> The prefix -re means again. <br> The prefix -mis means incorrectly or poorly",
+    "question": "Determine the meaning of the word with the prefix.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "hears incorrectly",
+      "description": "What does the word mean?<br><b>Mishear</b>",
+      "image": null,
+      "extra":"hears before,hears incorrectly"
+    },
+    {
+      "word": "cut before",
+      "description": "What does the word mean?<br><b>Precut</b>",
+      "image": null,
+      "extra":"Cut poorly, cut before"
+    },
+    {
+      "word": "fills again",
+      "description": "What does the word mean?<br><b>Refill</b>",
+      "image": null,
+      "extra":"fills before, fills again"
+    },
+    {
+      "word": "makes again",
+      "description": "What does the word mean?<br><b>Remakes</b>",
+      "image": null,
+      "extra":"makes incorrectly,makes again"
+    },
+    {
+      "word": "reads incorrectly",
+      "description": "What does the word mean?<br><b>Misread</b>",
+      "image": null,
+      "extra":"reads incorrectly,reads before"
+    }
+  ]
+}

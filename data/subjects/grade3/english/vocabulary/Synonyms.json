@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "hint": "Synonyms are words with the same meaning or almost the same meaning. Example - Dad and Father.",
+        "question": "Select the sentence with correct synonym.",
+        "screen_type": null
+    },
+    "content": [
+        {
+            "word": "The steps were freshly painted⸴ so we tried not to touch them.",
+            "description": "Which sentence has the same meaning? <br> The stairs were freshly painted, so we tried not to touch them. ",
+            "image": null,
+            "extra": "The steps were freshly painted⸴ so we tried not to touch them., The bricks were freshly painted⸴ so we tried not to touch them."
+        },
+        {
+            "word": "Did George's noisy dog wake you up this morning?",
+            "description": "Which sentence has the same meaning? <br> Did George's loud dog wake you up this morning?",
+            "image": null,
+            "extra": "Did George's large dog wake you up this morning?, Did George's noisy dog wake you up this morning?"
+        },
+        {
+            "word": "The circus will be in town for a week and will end⸴ on Sunday.",
+            "description": "Which sentence has the same meaning? <br> The circus will be in town for a week and will finish on Sunday.",
+            "image": null,
+            "extra": "The circus will be in town for a week and will change on Sunday.,The circus will be in town for a week and will end⸴ on Sunday."
+        },
+        {
+            "word": "A beautiful hummingbird feeds on the nectar from flowers.",
+            "description": "Which sentence has the same meaning? <br> A pretty hummingbird feeds on the nectar from flowers.",
+            "image": null,
+            "extra": "A beautiful hummingbird feeds on the nectar from flowers., An ugly hummingbird feeds on the nectar from flowers."
+        },
+        {
+            "word": "Mrs. Johnson closed her bedroom door and went to bed.",
+            "description": "Which sentence has the same meaning? <br> Mrs. Johnson shut her bedroom door and went to bed.",
+            "image": null,
+            "extra": "Mrs. Johnson washed her bedroom door and went to bed., Mrs. Johnson closed her bedroom door and went to bed."
+        }
+    ]
+}

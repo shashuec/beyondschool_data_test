@@ -1,0 +1,306 @@
+{
+  "english": [
+    {
+      "subject": "Vocabulary",
+
+      "chapters": [
+        {
+          "id": "vocab1",
+          "chapter_name": "Nouns",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab2",
+          "chapter_name": "Number words",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab3",
+          "chapter_name": "Odd one out from the group",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab4",
+          "chapter_name": "Synonyms",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab5",
+          "chapter_name": "Antonyms",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab6",
+          "chapter_name": "Shades of meaning",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab7",
+          "chapter_name": "Prefix and Suffix",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab8",
+          "chapter_name": "Understanding words with Prefix and Suffix",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab9",
+          "chapter_name": "Context clues",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      ]
+    },
+    {
+      "subject": "Spelling_CommonWords",
+
+      "chapters": [
+        {
+          "id": "spellcw1",
+          "chapter_name": "Most Common Words 1",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw2",
+          "chapter_name": "Words with 'L' blends",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw3",
+          "chapter_name": "Words with 'sh'",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw4",
+          "chapter_name": "Words with double consonants",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw5",
+          "chapter_name": "Words with Long 'o' sound",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw6",
+          "chapter_name": "Words with short 'a' sounds",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      ]
+    },
+    {
+      "subject": "Grammar",
+
+      "chapters": [
+        {
+          "id": "grm1",
+          "chapter_name": "Statement, Command, Question or Exclamation",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "grm2",
+          "chapter_name": "Who, What, When, Why or Where",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "grm3",
+          "chapter_name": "Is it the naming part or action part of the sentence",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "grm4",
+          "chapter_name": "Find the complete sentence.",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "grm5",
+          "chapter_name": "Possessive nouns",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "grm6",
+          "chapter_name": "Subject and object pronouns",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm7",
+          "chapter_name": "Personal Pronouns",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm8",
+          "chapter_name": "Possesive Pronouns",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm9",
+          "chapter_name": "Indefinite Pronouns",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm10",
+          "chapter_name": "Action verbs",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm11",
+          "chapter_name": "Sentence telling about Present",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm12",
+          "chapter_name": "Sentence telling about Past",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm13",
+          "chapter_name": "Form and use regular past tense",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm14",
+          "chapter_name": "Irregular Past Tense",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm15",
+          "chapter_name": "Use correct Present Tense form",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm16",
+          "chapter_name": "Use correct Past tense form",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm17",
+          "chapter_name": "Use correct form (has and have)",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm18",
+          "chapter_name": "Identify the subject",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm19",
+          "chapter_name": "Identify the Predicate",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm20",
+          "chapter_name": "Identify adjective",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      
+        ,
+        {
+          "id": "grm21",
+          "chapter_name": "Comparative and Superlative adjective",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm22",
+          "chapter_name": "Preposition with pictures",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+        ,
+        {
+          "id": "grm23",
+          "chapter_name": "Preposition in a sentence",
+          "unlock": 0,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      ]
+    }
+  ]
+}

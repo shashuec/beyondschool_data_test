@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "hint": "A\u00a0prefix\u00a0can be added to the beginning of a word.  It changes the meaning of the word.  Base words are words that can be combined  with prefixes and suffixes. They can also be used on their own.<br> Look at the word unhelpful.<br> The base word is help. The prefix is un-. It goes before the base word. <br> The suffix is -ful. It goes after the base word.",
+        "question": "Identify base words, prefixes and suffixes.",
+        "screen_type": null
+    },
+    "content": [
+        {
+            "word": "full",
+            "description": "What is the suffix in <b> colourful </b> ?",
+            "image": null,
+            "extra": "colour,full"
+        },
+        {
+            "word": "short",
+            "description": "What is the base word in <b> shortly </b>?",
+            "image": null,
+            "extra": "short,ly"
+        },
+        {
+            "word": "re",
+            "description": "What is the prefix in\u00a0<b> remake </b>?",
+            "image": null,
+            "extra": "re,make"
+        },
+        {
+            "word": "ment",
+            "description": "What is the suffix in <b> arrangement </b> ?",
+            "image": null,
+            "extra": "arrange,ment"
+        },
+        {
+            "word": "kind",
+            "description": "What is the base word <b> kindly </b>?",
+            "image": null,
+            "extra": "kind,ly"
+        }
+    ]
+}

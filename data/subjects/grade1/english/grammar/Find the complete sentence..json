@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "A sentence has a naming part and an action part. It shows complete thought. <br> Example - My sister got very good marks. Example - I do exercise every morning. <br> A sentence starts with a capital letter. It ends with a full stop (.) or another end mark.",
+    "question": "",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "I am going to school",
+      "description": "Find and select the complete sentence.",
+      "image": null,
+      "extra": "after school on Friday, I am going to school."
+    },
+    {
+      "word": "She went to the store to buy fruits.",
+      "description": "Find and select the complete sentence.",
+      "image": null,
+      "extra": "Was completely empty, She went to the store to buy fruits."
+    }
+  ]
+}

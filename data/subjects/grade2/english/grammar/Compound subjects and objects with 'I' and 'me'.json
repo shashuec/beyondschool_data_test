@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "I is a subject pronoun. You can use it as the subject of a sentence. It tells that the speaker is doing something, and it is usually at the beginning of the sentence. <br> Example - I hug Rick. The subject pronoun I is the subject of the sentence. <br> Me is an object pronoun. You can use it after an action verb. <br> Example - Rick hugs me. The object pronoun me is used after an action verb, hugs. <br> When a pronoun is connected to a noun with the word and (like Rick and I or Rick and me), it can be hard to tell which pronoun is correct. To tell which one is correct, look at the sentence without the other noun. <br> Example - Rick and I like the teacher. I like the teacher. I is used as the subject of the sentence. <br> Example - The teacher likes Rick and me. The teacher likes me. Me is used after the action verb, likes.",
+    "question": "Select the correct pronoun to completeExample - the sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "I",
+      "description": "My brother and _____ love chocolates.",
+      "image": null,
+      "extra": "I, me"
+    },
+    {
+      "word": "me",
+      "description": "They surprised David and _____.",
+      "image": null,
+      "extra": "I, me"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Past tense verbs tell about something that has already happened. To make a past tense verb, you usually just add -ed. <br> walk → walked Example - We walked to the shops yesterday. <br> If the verb already ends with an -e, you just add -d. <br> bake → baked Example - Jane baked a cake last week.",
+    "question": "Complete the sentence in the past tense.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "opened",
+      "description": "Tom _____ his closet to find his coat.",
+      "image": null,
+      "extra": "open, opening, opened"
+    },
+    {
+      "word": "asked",
+      "description": "I _____ my mother to make sandwiches for me.",
+      "image": null,
+      "extra": "asked, asking,ask"
+    }
+  ]
+}

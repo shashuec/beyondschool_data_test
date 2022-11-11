@@ -1,0 +1,18 @@
+{"meta": {
+  "hint": "Use who to ask about a person. Example - Who saw the bird first? Use what to ask about a thing. Example - What do birds eat? Use when to ask about a time. Example - When do birds sleep? Use where to ask about a place. Example - Where is the bird's nest? Use why to ask for a reason. Example - Why do birds sing?",
+  "question": "Complete the sentence with the best question word?",
+  "screen_type": null
+},
+"content": [
+    {
+      "word": "Hannah will come to the picnic.",
+      "description": "Which sentence tells you about the future?",
+      "image": null,
+      "extra": "He played well, Hannah will come to the picnic."
+    },
+    {
+      "word": "I will draw a sketch.",
+      "description": "Which sentence tells you about the future?",
+      "image": null,
+      "extra": "I will draw a sketch,  She worked very hard for the exams."
+    }]}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+      "hint": "An adjective is a word that tells you about a person, place, animal or thing. <br> Some adjectives tell you how many. <br> Example - Kim sees <b>two </b> trees. I have <b> three <b/> dogs.",
+    "question": "Complete the sentence  using number words to match the picture.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Eight",
+      "description": "How many horses are there?    ",
+      "image": "https://in.ixl.com/~media/0/A2ZrHMowYrEK0D0s11JfNuh2arw9R_12UjuWewD0W16fAMvUpC-38r9U5BRl2W-0OsIsUOI2BpZZuCyit69DXbxRk-USjweK69fND26muaNO6rmsKRAOh9OI59pScb7R.svg     ",
+      "extra": "Ten, Eight "
+    },
+    {
+      "word": "three",
+      "description": "How many trains are there?",
+      "image": "https://in.ixl.com/~media/0/XTYIudafRo432CWke2xDO8w7qYFKbTALjb5ODRv13jby1YtxmRqnHTta3aZFJchTjtTB4fvX9mKtHn7PkJP6ZnNpNnxbbN03BDt7Ak547yz6gKkKE2PtDecOJKEpT5-C.svg",
+      "extra": "three, six"
+    },
+    {
+      "word": "three",
+      "description": "How many bushes are there?",
+      "image": "https://in.ixl.com/~media/0/4QfQ9tToA655k3y8FWirE00LPjtVyLgotjlypjW6yZBA4C0Y7U_-EORgOk7fKiUpjpjv5tNw4LRNwAiV3XQrl63F1xfJRabehaQlxuse3x_bYGPNsGOqVCIth4B_9jai.svg",
+      "extra": "five, three"
+    },
+    {
+      "word": "six",
+      "description": "How many people are there?",
+      "image": "https://in.ixl.com/~media/0/yiwx6KsxQXGcWfHg4BnWDd5nAG1Kha_M7XhdWI_aXBGJBb_uDK3onwhSR6wsIg3sY0WsU16gjGdYgJGF2QB-MI339fcmthTAgVSYE1LqZ1xIDG6Fc2YezKwVU5AMtb9W.svg",
+      "extra": "ten,six"
+    }
+  ]
+}

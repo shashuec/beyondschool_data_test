@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "hint": "Some adjectives compare people, animals, places or things. <br> Comparative adjectives compare two people, animals, places or things. They end in -er. <br> Example - Andy is taller than his sister. Example - A boy and a girl are standing. The girl comes up to the boy's shoulder. <br> Superlative adjectives compare more than two people, animals, places, or things. They end in -est. <br> Example - He is the tallest person in his class.",
+    "question": "",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "faster",
+      "description": "Cars are faster than bicycles.",
+      "image": null,
+      "extra": "faster, cars, than"
+    },
+    {
+      "word": "funniest",
+      "description": "She is funniest in the class.",
+      "image": null,
+      "extra": "funniest, class, she"
+    }
+    
+  ]
+}
